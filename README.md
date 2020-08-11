@@ -1,3 +1,3 @@
-# Trigonometry JUnit Group 18
+# TDD Trigonometry Functions
 
-Lab 7 of Advanced Software Engineering Topics - TDD/JUnit/Trigonometry functions (sin, cos, tan)
+Java program to practice TDD using the three main trigonometric functions.
